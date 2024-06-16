@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.exe
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.deps.json
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.runtimeconfig.json
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.dll
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\bin\Debug\net8.0\AbstractClassAndMethods.pdb
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.sourcelink.json
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.dll
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\refint\AbstractClassAndMethods.dll
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.pdb
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\AbstractClassAndMethods.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\AbstractClassAndMethods\obj\Debug\net8.0\ref\AbstractClassAndMethods.dll
