@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverloading.exe
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverloading.deps.json
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverloading.runtimeconfig.json
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverloading.dll
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverloading.pdb
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.sourcelink.json
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.dll
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\refint\InheritanceAndMethodOverloading.dll
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.pdb
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverloading.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Codes\Projects\School Stuff\dcit318-assignment2-10988964\InheritanceAndMethodOverriding\obj\Debug\net8.0\ref\InheritanceAndMethodOverloading.dll
